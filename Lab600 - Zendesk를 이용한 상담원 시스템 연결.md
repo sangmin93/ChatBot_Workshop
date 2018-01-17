@@ -1,5 +1,7 @@
 Lab600 - Zendesk를 이용한 상담원 시스템 연결
 =======
+이번 랩에서는 Zendesk라는 상담원 시스템을 Channel Connector를 간단히 이용해서 연결,  Train까지 할 수 있는 것 알아 보겠습니다. Lab 500과 마찮가지로, 가장 최근의 버전이 필요합니다. 또한 Zendesk의 seperate subscription이 필요하니, 이점 유의해 주시길 바랍니다. (https://www.zendesk.kr/product/pricing)
+
 
 **Step 1. Zendesk Channel 등록하기**
 =======
