@@ -12,3 +12,7 @@
 * Lab 200 : [Training Data를 사용해 Chatbot을 Train](Lab200%20-%20Training%20Data를%20사용해%20Chatbot을%20Train.md)
 * Lab 300 : [Custom Component 구현, 수정 및 연결](Lab300%20-%20Custom%20Component%20구현,%20수정%20및%20연결.md)
 * Lab 400 : [카카오톡을 통해서 Chatbot 테스트하기](Lab400%20-%20카카오톡을%20통해서%20Chatbot%20테스트하기.md)
+
+-- 가장 최신 버전에서 지원 가능한 기능 -- 
+* Lab 500 : [Lab500 - Instant App 기능을 이용한 확장](Lab500%20-%20Instant%20App%20기능을%20이용한%20확장.md)
+* Lab 600 : [Lab600 - Zendesk를 이용한 상담원 시스템 연결](Lab600%20-%20Zendesk를%20이용한%20상담원%20시스템%2.md)
