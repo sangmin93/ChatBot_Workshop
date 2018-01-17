@@ -1,12 +1,3 @@
-![](asset/icon.jpg)
-
-[](index.html)
-==============
-
--   [Home](index.html)
--   [Archives](archives.html)
-
-[RSS](atom.xml "RSS")
 
 Step 1. Zendesk Channel 등록하기
 
