@@ -3,9 +3,9 @@ Lab300 - Custom Component 구현, 수정 및 연결
 
 이 랩에서 기존에 만들어둔 FirstBot에서 서비스를 연결 하고 수정하는 것을
 배울 것입니다. 이 랩을 완성하기 위해서는 아래의 파일이 필요합니다.
-labfiles/code에서 확인 해 주세요. zip 을 풀어주세요.
+labfiles\samples-service-balances에서 확인 해 주세요. 
 
--   samples-service-balances.zip
+-   samples-service-balances
 
 **Step 1: Banking Bot에서 Get Balance 서비스 연결하기**
 =======
@@ -20,6 +20,11 @@ labfiles/code에서 확인 해 주세요. zip 을 풀어주세요.
 
 ### 4.  로컬에서 실행 중인 서비스를 Bot에서 연결 합니다. 
 ![Screen Shot 2018-01-09 at 11.59.42A](media/15154655408142/Screen%20Shot%202018-01-09%20at%2011.59.42%20AM.png)
+
+        이 과정에서 ngrok을 통해 서버에 온라인으로 접근 가능하도록 합니다.
+                ex) ngrok.exe 내에 창에 ngrok http 3000
+                =>3000은 로컬 내에서 실행한 index.js의 포트여야 합니다.
+        이때 url+ /components 를 Metadata URL에 넣습니다.
 
 ### 5.  서비스 등록 후에는 이렇게 나옵니다.
 ![Screen Shot 2018-01-09 at 1.38.40P](media/15154655408142/Screen%20Shot%202018-01-09%20at%201.38.40%20PM.png)
