@@ -17,8 +17,7 @@ P](media/15153914320994/Screen%20Shot%202018-01-08%20at%203.21.58%20PM.png)￼
 P](media/15153914320994/Screen%20Shot%202018-01-08%20at%203.22.17%20PM.png)￼
 
 ### 2. 만약에 MasterBot이 보이지 않다면, 오른쪽 상단의 Import 버튼을 눌러서
-MasterBot을 import 해 주세요. import 버튼 클릭후, labfiles.zip 파일의
-labfiles/code 디렉토리에있는 MasterBot.json 파일을 import 하면 됩니다.
+MasterBot을 import 해 주세요. import 버튼 클릭후, labfiles\MasterBot_Korean\MasterBot 내부 import.zip의 MasterBot.json 파일을 import 하면 됩니다.
 
 ![Screen Shot 2018-01-08 at 3.28.46
 P](media/15153914320994/Screen%20Shot%202018-01-08%20at%203.28.46%20PM.png)￼
