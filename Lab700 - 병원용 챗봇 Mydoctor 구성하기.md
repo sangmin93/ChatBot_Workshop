@@ -31,7 +31,7 @@ mysql 생성-sm
 쿼리-sm
 디비 컴포넌트에 연결,참조 -민중
 
-* Step 7 : [Step 7 - Facebook 연동](https://github.com/.md)
+* Step 7 : [Step 7 - Facebook 연동](https://github.com/sangmin93/ChatBot_Workshop/blob/master/labfiles/Mydoctor/channels.md)
 페북템플릿-mj
 페이지만들기 - sm
 페북 채널연결 - sm
