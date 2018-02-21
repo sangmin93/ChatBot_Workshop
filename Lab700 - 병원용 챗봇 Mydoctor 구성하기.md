@@ -25,7 +25,7 @@
 크로링-hj
 데이터 정제-hj
 
-* Step 6 : [Step 6 - 디비설계](https://github.com/.md)
+* Step 6 : [Step 6 - 디비설계](https://github.com/sangmin93/ChatBot_Workshop/blob/master/labfiles/Mydoctor/database.md)
 mysql 생성-sm
 디비설계-sm
 쿼리-sm
