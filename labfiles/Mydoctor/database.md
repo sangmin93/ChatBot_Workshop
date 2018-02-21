@@ -55,6 +55,7 @@ CREATE TABLE `faq_list` (
   PRIMARY KEY (`id`)
 );
 ~~~
+### 2. Data import하기
 각각이 database table을 만들었다면 이제 csv파일을 다운받아 import해줍니다.
 csv파일은 csvfile폴더에 있습니다.
  다음의 쿼리문을 실행하여 csv파일을 import 해줍니다.
