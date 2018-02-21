@@ -1,4 +1,4 @@
-**Step 1: Database 구성하기**
+**Step 6: Database 구성하기**
 ==================
 ### 1. Database 생성하기
 mysql에서 다음 쿼리문을 실행하여 Database를 생성합니다.
