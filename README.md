@@ -16,3 +16,4 @@
 -- 가장 최신 버전에서 지원 가능한 기능 -- 
 * Lab 500 : [Lab500 - Instant App 기능을 이용한 확장](https://github.com/OracleCloudKr/ChatBot_Workshop/blob/master/Lab500%20-%20Instant%20App%20%EA%B8%B0%EB%8A%A5%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%99%95%EC%9E%A5.md)
 * Lab 600 : [Lab600 - Zendesk를 이용한 상담원 시스템 연결](https://github.com/OracleCloudKr/ChatBot_Workshop/blob/master/Lab600%20-%20Zendesk%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%83%81%EB%8B%B4%EC%9B%90%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%97%B0%EA%B2%B0.md)
+* Lab 700 : [Lab700 - 병원용 챗봇 Mydoctor 구성하기](https://sdfsdfsdf.md)
