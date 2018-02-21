@@ -1,4 +1,4 @@
-**Step 1: 페이스북 채널 생성, 연결하기**
+**Step 7: 페이스북 채널 생성, 연결하기**
 ===
 ### 1. 페이스북 페이지 생성
 <a href="https://www.facebook.com/pages/create" target="blank">https://www.facebook.com/pages/create</a><br>
